@@ -8,3 +8,4 @@ process.stdin.on()
 process.stdout.write()
 ```
 
+Deploy: https://harlet17.github.io/myquiz.github.io/
